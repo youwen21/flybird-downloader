@@ -6,4 +6,4 @@
 
 ![image](./manager.png) 
 
-![image](https://github.com/youwen21/flybird-m3u8downloader/raw/master/play.png) 
+![image](play.png) 
