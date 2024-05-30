@@ -25,3 +25,8 @@ QQ交流群： 854313352
 ![FlyBird M3u8 manager](./manager.png) 
 
 ![FlyBird M3u8 play](play.png) 
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=youwen21/flybird-m3u8downloader&type=Date)](https://star-history.com/#youwen21/flybird-m3u8downloader&Date)
