@@ -12,10 +12,10 @@ flybird-m3u8downloader是一款支持 Windows, MacOS双系统，且有 GUI 用�
 
 ## QQ交流群
 QQ交流群： 854313352
-![qq群二维码](qrcode_1717081395364.jpg)
+<img src="qrcode_1717081395364.jpg" width="400" >
 <a href="https://qm.qq.com/q/3pz7V9BHJu">点击链接加入群聊【就是玩群】：https://qm.qq.com/q/3pz7V9BHJu</a>
 
-<img src="qrcode_1717081395364.jpg" width="300" >
+
 
 ## 软件截图展示
 ![FlyBird M3u8 download](download.png)
