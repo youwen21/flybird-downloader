@@ -2,10 +2,22 @@
 flybird-m3u8downloader是一款有 GUI 用户界面的 M3u8下载、播放工具。支持 Windows, MacOS双系统。
 
 ## 功能列表
- - m3u8 下载 - 点播视频下载, 新增下载选项，可选只下载最高清或者下载全部分辨率。 支持视频解密。
- - m3u8 本地播放
- - m3u8 浏览器中播放
- - 管理已下载m3u8 - v1.0.3 增加 删除功能
+ 1. m3u8 下载
+   - 下载前查看 m3u8 内容
+   - 下载前播放检查 m3u8 有效性
+   - 单独下载m3u8包含的最高清晰度
+   - 下载全分辨率
+   - 视频解密保存
+   - 指定视频名称，方便回播
+ 1. m3u8 本地播放
+   - 软件中播放
+   - 本地浏览器播放
+ 1. 导出mp4
+   - m3u8导出 MP4 到用户“下载”文件夹
+ 1. 单独播放指定片段
+   - 指定播放 Segment片段
+ 1. 管理已下载 m3u8
+   - 删除 m3u8
  
 
 
@@ -13,9 +25,11 @@ flybird-m3u8downloader是一款有 GUI 用户界面的 M3u8下载、播放工具
 
 
 ## 软件截图展示
+![FlyBird M3u8 download](download-preview.png)
+
 ![FlyBird M3u8 download](download.png)
 
-![FlyBird M3u8 manager](./manager.png) 
+![FlyBird M3u8 manage](./manage.png) 
 
 ![FlyBird M3u8 play](play.png) 
 
