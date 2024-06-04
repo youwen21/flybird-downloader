@@ -44,6 +44,11 @@ M3u8管理
 本地播放M3u8
 ![FlyBird M3u8 play](play.png) 
 
+Master Playlist Edit
+![FlyBird Master Playlist Edit](master-playlist-edit.jpg) 
+
+Play Segment
+![FlyBird M3u8 play](play-ts.jpg) 
 
 ## Star History
 
