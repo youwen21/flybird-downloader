@@ -40,6 +40,9 @@ flybird-m3u8downloader一款m3u8 下载工具。
 
 
 ## 软件截图展示
+飞鸟M3u8视频下载器
+![FlyBird M3u8 download](flybird-m3u8.png) 
+
 M3u8下载预览
 ![FlyBird M3u8 download](download-preview.png)  
 
