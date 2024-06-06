@@ -68,7 +68,7 @@ Play Segment
 ## QQ交流群
 QQ交流群： 854313352  
 
-<img src="qrcode_1717081395364.jpg" width="400" >  
+<img src="qrcode_1717081395364.jpg" width="400" />  
 
 <a href="https://qm.qq.com/q/3pz7V9BHJu">点击链接加入群聊【就是玩群】：https://qm.qq.com/q/3pz7V9BHJu</a>
 
