@@ -42,8 +42,6 @@ flybird-m3u8downloader一款m3u8 下载工具。
 M3u8下载预览
 ![FlyBird M3u8 download](download-preview.png)  
 
-M3u8下载
-![FlyBird M3u8 download](download.png)  
 
 M3u8管理
 ![FlyBird M3u8 manage](./manage.png)  
