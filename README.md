@@ -68,7 +68,7 @@ IPTV list
 ![FlyBird IPTV list](iptv-list.jpg) 
 
 IPTV show
-![FlyBird IPTV show](iptv-import.jpg) 
+![FlyBird IPTV show](iptv-show.jpg) 
 
 ## Star History
 
