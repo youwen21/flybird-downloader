@@ -24,6 +24,10 @@ flybird-m3u8downloader一款m3u8 下载工具。
     - 播放 Segment片段
     - 等
 
+ 4. IPTV
+   - 导入 IPTV
+   - 展示和播放 IPTV
+
 ### 开发者选项
    - 查看 m3u8内容
    - 检查m3u8是否支持跨域播放
@@ -55,6 +59,16 @@ Master Playlist Edit
 
 Play Segment
 ![FlyBird M3u8 play](play-ts.jpg) 
+
+
+IPTV import
+![FlyBird IPTV import](iptv-import.png) 
+
+IPTV list
+![FlyBird IPTV list](iptv-list.jpg) 
+
+IPTV show
+![FlyBird IPTV show](iptv-import.jpg) 
 
 ## Star History
 
