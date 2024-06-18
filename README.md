@@ -58,13 +58,17 @@ Play Segment
 
 
 IPTV import
-![FlyBird IPTV import](iptv-import.png) 
+![FlyBird IPTV import](iptv-import-url.jpg) 
+![FlyBird IPTV import](iptv-import-content.jpg) 
 
 IPTV list
 ![FlyBird IPTV list](iptv-list.jpg) 
 
 IPTV show
 ![FlyBird IPTV show](iptv-show.jpg) 
+
+IPTV valid check
+![FlyBird IPTV valid check](iptv-valid-check.jpg) 
 
 ## Star History
 
