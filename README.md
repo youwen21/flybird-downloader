@@ -39,6 +39,10 @@ flybird-m3u8downloader 是一款有用户界面（GUI）的多用途 m3u8 工具
    - 下载 m3u8 全分辨率视频
    - 检查m3u8是否支持跨域播放
 
+### 开放接口
+   - 下载视频 POST http://127.0.0.1:58123/api/download
+   - 检查视频是否支持跨域播放 POST http://127.0.0.1:58123/api/proxy/checkCORS
+
 ### 亮点功能 重点说明
 代理播放 和 IPTV 有效性检测是本工具不可忽视的两个功能点。  
 代理播放：解决m3u8 CORS访问受限问题。  
