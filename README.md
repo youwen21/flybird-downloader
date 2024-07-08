@@ -12,8 +12,9 @@ flybird-m3u8downloader 是一款视频下载工具, 支持m3u8视频下载和直
 m3u8 点播下载  
 m3u8 直播下载  
 导出mp4
+m3u8 编辑
 
-影视站长全分辨率m3u8视频下载，等功能
+全分辨率m3u8视频下载，等影视站长功能
 
 [m3u8视频下载 更多说明文档 查看](doc/m3u8-download.md)
 
@@ -25,8 +26,8 @@ rtsp://url
 rtsps://url 
 rtmp://url 
 rtmps://url
-http://url/stream.m3u8 
-https://url/stream.m3u8
+http://url.m3u8 
+https://url.m3u8
 udp://ip:port
 srt://url
 whep://url
