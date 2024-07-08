@@ -1,13 +1,13 @@
 # flybird-m3u8downloader
-flybird-m3u8downloader 是一款视频下载工具, 支持m3u8视频下载和直播下载。  
-软件用户界面(GUI)良好， Windows, MacOS 双系统可用。
+flybird-m3u8downloader 是一款视频下载工具, 支持m3u8视频下载和直播下载。    
+
 ![flybird-m3u8downloader](flybird-m3u8.png)
 
 ## 系统支持
  - Windows 
  - MacOS
 
-## 功能
+## 功能介绍
 ### m3u8视频下载
 m3u8 点播下载  
 m3u8 直播下载  
