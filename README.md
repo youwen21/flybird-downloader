@@ -57,6 +57,9 @@ wheps://url
 ## 软件下载地址
 > https://github.com/youwen21/flybird-m3u8downloader/releases
 
+## 免费获取激活码地址
+> https://player.himyou.com/apply-code
+
 ## 其他说明
 本仓库是软件发布仓，无源码，clone无用。
 
