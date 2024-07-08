@@ -1,123 +1,70 @@
 # flybird-m3u8downloader
-flybird-m3u8downloader 是一款有用户界面（GUI）的多用途 m3u8 工具, 支持 m3u8 视频在线播放，下载，导出 MP4 等。  
-软件围绕m3u8 点播、 直播、 IPTV 三个应用场景，尽可能提供方便快捷的软件功能。
-
-## 功能列表
- 1. m3u8 视频下载
-    - 下载 m3u8 点播
-    - 下载 m3u8 直播 
-    - 查看m3u8原文件内容
-    - 视频解密
-    - 自定义 header头
-    - 通过代理下载视频
-
- 2. 播放 m3u8 和 mpd 视频
-    -  在线播放  m3u8 视频
-    -  使用代理播放 CORS受限 m3u8 视频
-    -  在线播放 mpd 视频
-
- 3. 视频管理
-    - 播放已下载 m3u8 视频
-    - m3u8 导出 MP4
-    - 查看Variant分辨率、删除 Variant
-    - 播放 TS 片段或者单个 TS。
-    - 删除 TS （如：下载的视频中包含广告）
-    - 等
-
- 4. IPTV
-    - 导入 IPTV（支持 url-m3u8, m3u8-content, txt-content三种导入方式）
-    - 展示和播放 IPTV
-    - 编辑 TV
-    - 批量检测 TV 是否有效
-    - 批量删除 错误次数 >= 2的 TV
-
- 5. 设置代理服务器
-    - 设置socks5代理,访问受限资源
-
-### 开发者选项
-   - 查看 m3u8内容
-   - 下载 m3u8 全分辨率视频
-   - 检查m3u8是否支持跨域播放
-
-### 开放接口
-   - 下载视频 POST http://127.0.0.1:58123/api/download
-   - 检查视频是否支持跨域播放 POST http://127.0.0.1:58123/api/proxy/checkCORS
-
-### 亮点功能 重点说明
-代理播放 和 IPTV 有效性检测是本工具不可忽视的两个功能点。  
-代理播放：解决m3u8 CORS访问受限问题。  
-IPTV 有效性检测： 直接 + 代理双路检测，直观展示m3u8资源是否有效。
+flybird-m3u8downloader 是一款视频下载工具, 支持m3u8视频下载和直播下载。  
+软件用户界面(GUI)良好， Windows, MacOS 双系统可用。
+![flybird-m3u8downloader](flybird-m3u8.png)
 
 ## 系统支持
  - Windows 
  - MacOS
 
-# m3u8播放器比较
+## 功能
+### m3u8视频下载
+m3u8 点播下载  
+m3u8 直播下载  
+导出mp4
 
-|     |      普通m3u8在线播放器      |  Flybird 播放器 |
+影视站长全分辨率m3u8视频下载，等功能
+
+[m3u8视频下载 更多说明文档 查看](doc/m3u8-download.md)
+
+### 直播 视频下载
+支持的直播格式如下
+rtsp, rtmp, m3u8, udp, srt, WebRTC
+```
+rtsp://url
+rtsps://url 
+rtmp://url 
+rtmps://url
+http://url/stream.m3u8 
+https://url/stream.m3u8
+udp://ip:port
+srt://url
+whep://url
+wheps://url
+```
+
+直播视频保存目录： "下载"文件夹，mp4格式。
+
+[下载直播视频 更多说明文档 查看](doc/live-stream-record.md)
+
+### IPTV
+支持自定义iptv导入， iptv批量检测有无效等。
+
+[IPTV 更多说明文档 查看](doc/iptv.md)
+
+### 播放视频
+|     |      普通m3u8在线播放器      |  本软件播放器 |
 |----------|:-------------:|:------:|
 | 公开资源 |   支持 | 支持 |
 | CORS受限资源 |    X   |   支持 |
 | 需代理访问资源 | X |    支持 |
 
 
-
-网上很多m3u8视频非真实失效， 有很大一部分是CORS受限不可访问， Flybird 播放器可播放所有有效的m3u8视频。 
-
+### 代理
+ 设置socks5代理,访问受限资源
 
 ## 软件下载地址
 > https://github.com/youwen21/flybird-m3u8downloader/releases
 
+## 其他说明
+本仓库是软件发布仓，无源码，clone无用。
 
-## 软件截图展示
-飞鸟M3u8视频下载器
-![FlyBird M3u8 download](flybird-m3u8.png) 
-
-M3u8下载预览
-![FlyBird M3u8 download](download-preview.png)  
-
-
-M3u8管理
-![FlyBird M3u8 manage](./manage.png)  
-
-本地播放M3u8
-![FlyBird M3u8 play](play.png) 
-
-Master Playlist Edit
-![FlyBird Master Playlist Edit](master-playlist-edit.jpg) 
-
-Play Segment
-![FlyBird M3u8 play](play-ts.jpg) 
-
-
-IPTV import
-![FlyBird IPTV import](iptv-import-url.jpg) 
-![FlyBird IPTV import](iptv-import-content.jpg) 
-
-IPTV list
-![FlyBird IPTV list](iptv-list.jpg) 
-
-IPTV show
-![FlyBird IPTV show](iptv-show.jpg) 
-
-IPTV valid check
-![FlyBird IPTV valid check](iptv-valid-check.jpg) 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=youwen21/flybird-m3u8downloader&type=Date)](https://star-history.com/#youwen21/flybird-m3u8downloader&Date)
-
+## 界面预览图
 
 
 ## QQ交流群
 QQ交流群： 854313352  
 
-<img src="qrcode_1717081395364.jpg" width="400" />  
+<img src="images/qrcode_1717081395364.jpg" width="400" />  
 
 <a href="https://qm.qq.com/q/3pz7V9BHJu">点击链接加入群聊【就是玩群】：https://qm.qq.com/q/3pz7V9BHJu</a>
-
-
-
-
-# HLS 官方说明文档
-> https://developer.apple.com/streaming/
