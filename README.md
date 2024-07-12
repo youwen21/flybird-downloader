@@ -64,7 +64,7 @@ wheps://url
 本仓库是软件发布仓，无源码，clone无用。
 
 ## 界面预览图
-
+<img src="download-preview.png" />  
 
 ## QQ交流群
 QQ交流群： 854313352  
