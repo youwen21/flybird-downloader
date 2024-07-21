@@ -73,7 +73,3 @@ QQ交流群： 854313352
 
 <a href="https://qm.qq.com/q/3pz7V9BHJu">点击链接加入群聊【就是玩群】：https://qm.qq.com/q/3pz7V9BHJu</a>
 
-# 感谢
-[github.com/grafov/m3u8](https://github.com/grafov/m3u8)  
-
-[github.com/bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)  
