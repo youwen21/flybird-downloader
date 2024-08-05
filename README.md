@@ -37,8 +37,6 @@ flybird-m3u8downloader 视频下载工具, 支持下载 m3u8, mpd 格式视频�
 
 ### 数据接收
  - 接收 《猫抓》 浏览器插件数据
-
-[猫抓 浏览器插件 下载地址](https://github.com/xifangczy/cat-catch)
  
 [查看《数据接收》详细文档](doc/data-receive.md)
 
