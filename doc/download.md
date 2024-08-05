@@ -38,7 +38,7 @@ M3u8下载预览
 
 
 M3u8管理
-![FlyBird M3u8 manage](../images/manage.png)  
+![FlyBird M3u8 manage](../images/manage.jpg)  
 
 本地播放M3u8
 ![FlyBird M3u8 play](../images/play.png) 

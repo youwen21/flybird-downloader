@@ -54,13 +54,13 @@ flybird-m3u8downloader 视频下载工具, 支持下载 m3u8, mpd 格式视频�
 <img src="download-preview.png" alt="查看原文件"/>   
 
 选择分辨率
-<img src="images/download2.png" alt="选择分辨率"/>   
+<img src="images/download2.jpg" alt="选择分辨率"/>   
 
 视频下载
 <img src="images/download.png" alt="视频下载"/>    
 
-播发已下载视频
-<img src="images/play.png" alt="播发已下载视频"/>  
+播放已下载视频
+<img src="images/play.png" alt="播放已下载视频"/>  
 
 ## QQ交流群
 QQ交流群： 854313352  
