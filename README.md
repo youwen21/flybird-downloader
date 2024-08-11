@@ -1,5 +1,6 @@
 # flybird-m3u8downloader
 flybird-m3u8downloader 视频下载工具, 支持下载 m3u8, mpd 格式视频。    
+强烈建议windows用户升级至v3.3.2版本， 此版本对windows做了大量兼容性优化。
 
 ![flybird-m3u8downloader](flybird-m3u8.png)
 
@@ -25,7 +26,7 @@ flybird-m3u8downloader 视频下载工具, 支持下载 m3u8, mpd 格式视频�
  - 视频重命名
  - 播发视频
  - 删除视频
- - 导出MP4（windows系统暂不可用）
+ - 导出MP4
  - 编辑删除分辨率 或者 ts 片段 （删除视频中的广告）
 
 
