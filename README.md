@@ -1,8 +1,8 @@
-# flybird-m3u8downloader
-flybird-m3u8downloader 视频下载工具, 支持下载 m3u8, mpd 格式视频。    
+# flybird-downloader
+flybird-downloader （旧名: flybird-m3u8downloader） 视频下载工具, 支持下载 m3u8, mpd 格式视频。    
 强烈建议windows用户升级至v3.3.2版本， 此版本对windows做了大量兼容性优化。
 
-![flybird-m3u8downloader](flybird-m3u8.png)
+![flybird-downloader](flybird-m3u8.png)
 
 ## 系统支持
  - Windows (windows10, windows11)
@@ -42,7 +42,7 @@ flybird-m3u8downloader 视频下载工具, 支持下载 m3u8, mpd 格式视频�
 [查看《数据接收》详细文档](doc/data-receive.md)
 
 ## 软件下载地址
-> https://github.com/youwen21/flybird-m3u8downloader/releases
+> https://github.com/youwen21/flybird-downloader/releases
 
 ## 免费获取激活码地址
 > https://player.himyou.com/apply-code
