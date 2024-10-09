@@ -1,3 +1,7 @@
+# iptv-checker
+iptv-check function is standalone software now  
+repo: [https://github.com/youwen21/flybird-iptv](https://github.com/youwen21/flybird-iptv)
+
 # flybird-downloader
 flybird-downloader （旧名: flybird-m3u8downloader） 视频下载工具, 支持下载 m3u8, mpd 格式视频。    
 强烈建议windows用户升级至v3.3.2版本， 此版本对windows做了大量兼容性优化。
